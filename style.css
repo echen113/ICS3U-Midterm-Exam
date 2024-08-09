@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-image: url("cookingWallpaper.jpg");
+}
+h1{
+    font-size: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-emphasis: bold;
+}
+div{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.list{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
